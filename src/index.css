@@ -1,0 +1,29 @@
+
+.square{
+  height: 100px;
+  width: 100px;
+}
+
+.board{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: fit-content;
+}
+
+.board-row{
+  display: flex;
+}
+
+button{
+  font-family: VT323;
+  font-weight: 400;
+  font-size:x-large;
+}
+
+.status{
+  font-family: VT323;
+  font-size: large;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
